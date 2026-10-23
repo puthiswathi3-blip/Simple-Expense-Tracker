@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2026-12-02",
+        "category": "Food",
+        "description": "dosa idly-100,biriyani-350,butter chicken-250",
+        "amount": 700.0
+    },
+    {
+        "date": "2026-12-18",
+        "category": "Tyra",
+        "description": "hyderabad",
+        "amount": 2000.0
+    }
+]

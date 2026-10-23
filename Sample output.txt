@@ -1,0 +1,81 @@
+Sample output:
+
+========== EXPENSE TRACKER ==========
+1. Add Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Total Spending Report
+5. Exit
+Enter your choice (1-5): 1
+
+--- Add New Expense ---
+Enter expense date (YYYY-MM-DD): 2026-12-02
+Enter category (Food, Travel, etc.): Food
+Enter description: dosa idly-100,biriyani-350,butter chicken-250
+Enter amount: ₹700
+Expense added successfully!
+
+========== EXPENSE TRACKER ==========
+1. Add Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Total Spending Report
+5. Exit
+Enter your choice (1-5): 1
+
+--- Add New Expense ---
+Enter expense date (YYYY-MM-DD): 2026-12-18
+Enter category (Food, Travel, etc.): travel
+Enter description: hyderabad
+Enter amount: ₹2000
+Expense added successfully!
+
+========== EXPENSE TRACKER ==========
+1. Add Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Total Spending Report
+5. Exit
+Enter your choice (1-5): 2
+
+--- All Expenses ---
+---------------------------------------------------------------------------
+Date         Category        Description                Amount (₹)
+---------------------------------------------------------------------------
+2026-12-02   Food            dosa idly-100,biriyani-3       700.00
+2026-12-18   Travel          hyderabad                     2000.00
+---------------------------------------------------------------------------
+
+========== EXPENSE TRACKER ==========
+1. Add Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Total Spending Report
+5. Exit
+Enter your choice (1-5): 3
+
+--- Category-wise Spending Summary ---
+Food                 ₹700.00
+Travel                 ₹2000.00
+
+========== EXPENSE TRACKER ==========
+1. Add Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Total Spending Report
+5. Exit
+Enter your choice (1-5): 4
+
+--- Total Spending Report ---
+Number of expenses: 2
+Total spending: ₹2700.00
+Average expense: ₹1350.00
+
+========== EXPENSE TRACKER ==========
+1. Add Expense
+2. View All Expenses
+3. Category-wise Summary
+4. Total Spending Report
+5. Exit
+Enter your choice (1-5): 5
+Thank you for using Expense Tracker!
